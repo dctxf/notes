@@ -11,6 +11,7 @@
   * [Shandowsocks](code/ss/README.md)
   * [SSH](code/ssh/README.md)
   * [Zsh](code/zsh/README.md)
+  * [Node](code/node/README.md) 
 * [设计](design/README.md) 
 * [软件](apps/README.md)
   * [surge](apps/surge/README.md)
