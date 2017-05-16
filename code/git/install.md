@@ -1,6 +1,8 @@
-# 如何在CentOS 6.x/7.x上安装git及最新版
+# Git 安装
 
-## yum安装
+## CentOS
+
+### yum安装
 
 ```bash
 yum install git
@@ -8,7 +10,7 @@ yum install git
 
 通过yum方式安装，版本比较旧，CentOS6.5上安装好是1.7.1版。如果想安装最新版或其他版本，需要使用源码编译安装的方式。
 
-## 源码包安装
+### 源码包安装
 
 安装依赖包
 
@@ -52,3 +54,7 @@ source /etc/bashrc
 git --version
 # git version 2.5.0
 ```
+
+## Mac
+
+Mac我建议用brew安装，因为升级方便可以下载一个cakebrew,搜索`git`安装即可
