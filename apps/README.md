@@ -31,7 +31,7 @@
 * smcFanControl
 * SnippetsLab
 * Sublime Text
-* [Surge](apps/surge/README.md)
+* [Surge](/apps/surge/README.md)
 * TeamViewer
 * The Unarchiver
 * Waltr 2
