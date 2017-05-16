@@ -1,11 +1,12 @@
 # Summary
 
-* [基本介绍](README.md)
+* [目录](README.md)
 * [开发](code/README.md)
   * [Mysql](code/mysql/README.md)
   * [CDN](code/cdn/README.md)
   * [Docker](code/docker/README.md)
   * [Git](code/git/README.md)
+		* [安装](code/git/install.md)      
   * [Javascript](code/javascript/README.md)
   * [OSS](code/oss/README.md)
   * [Shandowsocks](code/ss/README.md)
