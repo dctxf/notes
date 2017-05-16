@@ -3,6 +3,7 @@
 * [目录](README.md)
 * [服务](service/README.md)
 	* [VPS](service/vps.md)
+	* [域名](service/domain.md)
 * [开发](code/README.md)
   * [Mysql](code/mysql/README.md)
   * [CDN](code/cdn/README.md)
@@ -19,5 +20,6 @@
 * [设计](design/README.md)
 * [软件](apps/README.md)
   * [surge](apps/surge/README.md)
+* [算法](other/README.md)
 * [番外](other/README.md)
 
