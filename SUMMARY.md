@@ -6,7 +6,7 @@
   * [CDN](code/cdn/README.md)
   * [Docker](code/docker/README.md)
   * [Git](code/git/README.md)
-		* [安装](code/git/install.md)      
+		* [安装](code/git/install/README.md)      
   * [Javascript](code/javascript/README.md)
   * [OSS](code/oss/README.md)
   * [Shandowsocks](code/ss/README.md)
