@@ -52,6 +52,15 @@ ls ~/.ssh/
 
 ### 上传公钥
 
+在服务器上创建`authorized_keys`并**修改权限**
+
+```bash
+touch ~/.ssh/atuthorized_keys
+chmod 600 ~/.ssh/authorized_keys  
+```
+
+**注意：** 必须将`~/.ssh/authorized_keys`的权限改为600
+
 ```bash
 scp ~/.ssh/id_rsa.pub root@127.0.0.1:~/.ssh/authorized_keys
 # scp 本地公钥 user@host:~/.ssh/authorized_keys

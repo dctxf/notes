@@ -62,7 +62,7 @@ mysqldump -h host -P 3306 -u root -p dbname > 'dbname_backup.sql'
 ### 数据库恢复\导入
 
 ```bash
-mysql -h host -P 3306 -u root -p dbname 'dbname_backup.sql'
+mysql -h host -P 3306 -u root -p dbname < 'dbname_backup.sql'
 ```
 
 ## 拓展阅读
