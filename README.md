@@ -1,4 +1,4 @@
-# 学习笔记
+# 简介
 
 > 文章内容不断更新，希望我能坚持下去！
 
@@ -6,30 +6,19 @@
 
 **本书是个大杂烩，如果对你有益，非常高兴。**
 
-* [目录](README.md)
-* [服务](service/README.md)
-	* [VPS](service/vps.md)
-	* [域名](service/domain.md)
-* [开发](code/README.md)
-  * [Mysql](code/mysql/README.md)
-  * [CDN](code/cdn/README.md)
-  * [Docker](code/docker/README.md)
-  * [Git](code/git/README.md)
-    * [安装](code/git/install.md)
-    * [卸载](code/git/uninstall.md)
-  * [Javascript](code/javascript/README.md)
-  * [OSS](code/oss/README.md)
-  * [Shandowsocks](code/ss/README.md)
-  * [SSH](code/ssh/README.md)
-  * [Zsh](code/zsh/README.md)
-  * [Node](code/node/README.md)
-  * [npm](code/npm/README.md) 
-* [设计](design/README.md)
-	* [想法](design/bb.md) 
-* [软件](apps/README.md)
-  * [surge](apps/surge/README.md)
-* [算法](other/README.md)
-* [番外](other/README.md)
+
+## 关于错误
+
+如果您发现本书中有任何错误，可以联系我。
+
+**联系方式**
+
+- QQ：`120676691`
+- Email：`dctmz@qq.com`
+
+## 关于版权
+
+本书仅是本人的笔记。如果有侵权行为，请及时给我发邮件`dctmz@qq.com`
 
 
 
